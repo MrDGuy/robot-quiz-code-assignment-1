@@ -52,6 +52,10 @@ Use the commands and conditions in the robot category.
     pass
 ```
 
+## Share your work to Google Classroom  
+
+Be sure to share your code by clicking the share icon and sharing the link to Google Classroom.
+
 
 ```assetjson
 {
