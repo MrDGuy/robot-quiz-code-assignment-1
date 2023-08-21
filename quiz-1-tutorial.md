@@ -4,7 +4,7 @@
 
 This coding assignment is worth 5 points:
 1. 1 Point Earned if Code Runs without Errors
-2. 1 Point Earned if Robot Reaches the Goal
+2. 1 Point Earned if Robot Reaches the Goal and Collects all the Coins.
 3. 2 Points for using 2 of the following: Function, For Loop or If statement
 4. 1 Point Earned if Function, For Loop or If Statement help to shorten your code significantly
 
@@ -13,7 +13,7 @@ This coding assignment is worth 5 points:
 
 This coding assignment is worth 5 points:
 1. 1 Point Earned if Code Runs without Errors
-2. 1 Point Earned if Robot Reaches the Goal
+2. 1 Point Earned if Robot Reaches the Goal and Collects all the Coins.
 3. 2 Points for using 2 of the following: Function, For Loop or If statement
 4. 1 Point Earned if Function, For Loop or If Statement help to shorten your code significantly
    
