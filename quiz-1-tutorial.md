@@ -43,7 +43,7 @@ Use the commands and conditions in the robot category.
   while True:
     pass
 
-  if robot.can_move("forward"):
+  if robot.detect_coin():
     pass
 
   if robot.can_move("forward"):
