@@ -40,9 +40,6 @@ Use the commands and conditions in the robot category.
   for i in range(4):
     pass
 
-  while True:
-    pass
-
   if robot.detect_coin():
     pass
 
