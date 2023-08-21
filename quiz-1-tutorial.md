@@ -55,7 +55,7 @@ Use the commands and conditions in the robot category.
 ## Share your work to Google Classroom  
 
 Be sure to share your code by clicking the share icon and sharing the link to Google Classroom.
-![Share Icon](https://raw.githubusercontent.com/MrDGuy/robot-quiz-code-assignment-1/main/share-icon.png "Share Icon" )
+![Share Icon](https://github.com/MrDGuy/robot-quiz-code-assignment-1/blob/24c88c502ccd146fc1be1352949c18ee918a8f30/share-icon.png "Share Icon" )
 
 ```assetjson
 {
